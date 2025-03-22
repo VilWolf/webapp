@@ -30,5 +30,6 @@
                 </c:forEach>
             </tbody>
         </table>
+        <a href="add-politico" class="btn btn-success">Agrega politico</a>
     </body>
 </html>
